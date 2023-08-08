@@ -1,0 +1,98 @@
+    1  git status
+    2  git add .
+    3  git clone https://github.com/Umuzi-org/Onkarabetse-Malebadi-394-bash-for-bootcamp-.git
+    4  ls
+    5  cd Onkarabetse-Malebadi-394-bash-for-bootcamp-/
+    6  touch question_1.md
+    7  ls
+    8  code .
+    9  ls
+   10  touch question_2.md
+   11  ls
+   12  cd question_2.md 
+   13  code .
+   14  cd home
+   15  clear
+   16  git clone https://github.com/Umuzi-org/Onkarabetse-Malebadi-606-tilde-project-tutorial-how-repo-projects-work-.git
+   17  cd ..
+   18  git clone https://github.com/Umuzi-org/Onkarabetse-Malebadi-606-tilde-project-tutorial-how-repo-projects-work-.git
+   19  git clone https://github.com/Umuzi-org/Onkarabetse-Malebadi-219-level-1-programming-katas-javascript.git
+   20  la
+   21  la
+   22  ls
+   23  cd Onkarabetse-Malebadi-219-level-1-programming-katas-javascript/
+   24  code .
+   25  pwd
+   26  git clone git@github.com:Umuzi-org/Onkarabetse-Malebadi-223-person-javascript.git
+   27  [200~git clone https://github.com/Umuzi-org/Onkarabetse-Malebadi-223-person-javascript.git
+   28  git clone https://github.com/Umuzi-org/Onkarabetse-Malebadi-223-person-javascript.git
+   29  ls
+   30  cd Onkarabetse-Malebadi-223-person-javascript/
+   31  touch person.js
+   32  ls
+   33  code .
+   34  mkdir git-basic-exercises
+   35  cd git-basic-exercises/
+   36  ls
+   37  ls -a
+   38  git init
+   39  ls -a
+   40  git status
+   41  touch README.md
+   42  git checkout main
+   43  git config --global init.defaultBranch main
+   44  clear
+   45  cd ..
+   46  mkdir git-basic-exercises
+   47  ls
+   48  cd git-basic-exercises/
+   49  clear
+   50  git branch
+   51  git checkout -b main
+   52  git push origin main
+   53  git branch -d master         
+   54  git push origin --delete master 
+   55  git config --global init.defaultBranch main
+   56  ls -a
+   57  git status
+   58  git log
+   59  git add .
+   60  git status
+   61  git commit -m "initial commit"
+   62  git log
+   63  q
+   64  nano README.md 
+   65  cat README.md 
+   66  git status
+   67  git commit -m "second commit"
+   68  git add .
+   69  git status
+   70  git add .
+   71  git commit -m "second commit"
+   72  nano README.md 
+   73  cat README.md 
+   74  git status
+   75  git add .
+   76  git status
+   77  git add .
+   78  git commit -m "third commit"
+   79  git log
+   80  git checkout
+   81  cat README.md 
+   82  git checkout main
+   83  cat README.md 
+   84  git branch
+   85  git checkout -b milkshake-flavours
+   86  git branch
+   87  nano milkshakes.md
+   88  git status
+   89  git add .
+   90  git status
+   91  git add .
+   92  git commit -m "added initial flavours"
+   93  git log
+   94  git checkout main
+   95  git checkout -b history
+   96  git log
+   97  git branch
+   98  history > history.txt
